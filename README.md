@@ -1,6 +1,6 @@
 <h1>Hello everyone! 😁</h1>
 
-I'm a software developer and machine learning engineer previously [@CiampittiLab](https://ciampittilab.wixsite.com/ciampitti-lab), focusing on developing solutions for agronomy and helping bridge the gap between the field and technology. I also love Star Wars. 
+I'm a software developer, machine learning engineer and a MSc. Student currently [@CiampittiLab](https://ciampittilab.wixsite.com/ciampitti-lab), focusing on developing solutions for agronomy and helping bridge the gap between the field and technology. I also love Star Wars. 
 
 Feel free to contact me on my LinkedIn account.
 
